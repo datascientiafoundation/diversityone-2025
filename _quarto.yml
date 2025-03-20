@@ -4,6 +4,10 @@ project:
 website:
   title: "D1 @ UbiComp 2025"
   back-to-top-navigation: true
+  open-graph:
+    title: "DiversityOne @ UbiComp 2025"
+    description: "Join us for an exciting UbiComp workshop exploring the all-new DiversityOne dataset"
+    image: img/banner_low.jpeg
   navbar:
     left:
       - href: index.qmd
