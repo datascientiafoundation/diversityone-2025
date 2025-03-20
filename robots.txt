@@ -1,1 +1,1 @@
-Sitemap: https://abonte.github.io/diversityone/sitemap.xml
+Sitemap: https://datascientiafoundation.github.io/diversityone-2025/sitemap.xml
