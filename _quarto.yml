@@ -7,7 +7,7 @@ website:
   open-graph:
     title: "DiversityOne @ UbiComp 2025"
     description: "Join us for an exciting UbiComp workshop exploring the all-new DiversityOne dataset"
-    image: img/banner_low.jpeg
+    image: img/banner_preview.jpeg
   navbar:
     left:
       - href: index.qmd
