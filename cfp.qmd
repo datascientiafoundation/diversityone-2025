@@ -1,0 +1,218 @@
+---
+title: Call for Papers
+page-layout: full
+bibliography: references.bib
+---
+
+The open challenge aims to explore the *DiversityOne* dataset, one of
+the largest and most geographically diverse smartphone datasets about
+everyday life behavior. The dataset combines questionnaires about
+demographic and psychosocial variables from 18K participants, and
+passive smartphone sensor data and self-reported annotation from 782
+students across eight universities in eight countries. This dataset is a
+rich and valuable research resource that can be used to address research
+questions in multiple fields: machine learning, mobile sensing,
+computational social science, design with data, and many others. The
+open challenge offers the opportunity to work on the dataset and gain
+useful feedback on your research. We welcome contributions from
+researchers from *diverse backgrounds and geographical provenances*. In
+particular, we welcome contributions that address aspects including, but
+not limited to:
+
+-   **AI/ubiquitous computing/mobile sensing**
+
+    -   data-centric AI
+    -   interactive machine learning
+    -   noisy annotation detection and correction
+    -   domain adaptation
+    -   transfer learning
+    -   activity and mood recognition
+    -   responsible and ethical AI
+
+-   **Computational social science**
+
+    -   network analysis of social systems
+    -   sequence analysis of diary data
+    -   analysis of communities of practices
+    -   machine learning or rule-based analysis of social behavior
+
+-   **Designing with data**
+
+    -   studies focusing on the design and documentation of the dataset
+        collection
+    -   studies focusing on the design affordances of the dataset
+    -   data-centric design
+    -   user-centered design
+
+## Important dates
+
+-   **From {{< var request_date >}}**: Submit your research proposal using the web
+    form (_the link will be added on this website from March 28_) and
+    request the datasets that you need to answer your research
+    questions. Please specify that you are requesting the dataset to
+    submit your work to the workshop. The full list of available
+    datasets and documentation is accessible on the [data catalog]({{< var link.catalog >}}).
+
+-   **June 8, 2025:** Abstract deadline. Link to submission platform _TBA_
+
+-   **June 15, 2025**: Submission deadline
+
+-   **June 29, 2025**: Author notification
+
+-   **July 30, 2025**: Deadline for the camera-ready version of workshop
+    papers to be included in the ACM DL
+
+-   **October 12 or 13, 2015**: Full-day Workshop.
+
+## Important links
+
+**Dataset paper**
+[https://dl.acm.org/doi/10.1145/3712289](https://dl.acm.org/doi/10.1145/3712289)
+
+**Data catalog**
+[{{< var link.catalog >}}]({{< var link.catalog >}})
+
+**Dataset webpage**
+[https://datascientia.eu/projects/diversityone/](https://datascientia.eu/projects/diversityone/)
+
+**Conference webpage UbiComp / ISWC 2025**
+[https://www.ubicomp.org/ubicomp-iswc-2025/](https://www.ubicomp.org/ubicomp-iswc-2025/)
+
+## The dataset
+
+To participate, you are expected to use the *DiversityOne* dataset. This
+dataset is the result of the large-scale European project ["WeNet - The
+Internet of US"](https://doi.org/10.3030/823783). The
+[dataset paper](https://dl.acm.org/doi/10.1145/3712289)
+describes in detail the dataset together with the data collection
+methodology and statistics. contains data from college students in eight
+countries: China, Denmark, India, Italy, Mexico, Mongolia, Paraguay, and
+the United Kingdom. The study followed ethical approval procedures in
+each of the participating institutions and is compliant with the
+European General Data Protection Regulation (GDPR). The dataset contains
+questionnaire answers from over 18K students, 782 of whom agreed to
+participate in a longitudinal survey of four weeks. The study used the
+[iLog app](https://datascientia.disi.unitn.it/ilog/) to collect
+data from smartphone sensors such as accelerometer, gyroscope, and GPS,
+as well as derived information such as notification interactions, app
+usage, activities, and step counts. During this period, participants
+reported their activities, locations, social context, and mood, with
+daily reports on sleep quality and daily expectations. The combination
+of sensor data and self-reported data across eight universities
+worldwide fosters research in ubiquitous computing, mobile sensing,
+machine learning, computational social science, and design with data.
+The dataset also opens the possibility for the design of new data-driven
+studies of diverse human behavior.
+
+## Paper submission
+
+*Short paper (max 4 pages, excluding references)*. The submitted works
+are expected to reflect on, analyze, or test the *DiversityOne* dataset.
+Submitted papers should report the work's motivation, methodology,
+results, possible future analyses, and include an ethical statement
+describing potential societal impact. The paper should follow the
+[UbiComp/ISWC template and guideline](https://www.ubicomp.org/ubicomp-iswc-2025/authors/formatting/).
+All papers and any supplementary material must be **anonymized**. Each
+submission will be reviewed by two reviewers from a panel of experts. All authors are asked
+to adhere to the [Accessible Submission Guidelines](https://sigchi.org/resources/guides-for-authors/accessibility/).
+All accepted publications will be published on the ACM Digital Library
+as part of the UbiComp 2025 proceedings. At least one author of each
+accepted paper needs to register for the workshop. During the workshop,
+each paper will be presented by one of the authors. We are exploring
+with the conference and workshop chairs the possibility of supporting
+video/remote presentations and reduced rates for authors unable to
+travel to the conference to promote diversity and facilitate
+participation.
+
+## Paper presentation
+
+The authors of the accepted paper will be invited to present their work
+during the workshop. The presentation timing will be defined based on
+the number of submissions (tentatively, the presentation will be between
+10 minutes, with 5 minutes for Q/A and discussion, in which we encourage
+participants to exchange ideas and approaches). The final timing will be
+communicated before the workshop.
+
+## Paper Awards
+
+Papers will receive a special mention during the workshop in the form of
+a best paper award and a best paper runner-up award. The evaluation will
+be made by a committee based on the following criteria:
+
+-   *creativity*: how original or novel the analysis is;
+-   *multidisciplinary*: how well it combines ideas and approaches from
+    multiple disciplines;
+-   *presentation*: how clear the presentation is and how well written
+    the paper is;
+-   *impact*: how likely is it that the work can lead to impactful
+    results if the paper is further extended.
+
+## Special track in Journal
+
+A selection of the accepted papers will be invited to submit an extended
+version to a special track in a journal related to the topics of the
+workshop (details will be released in the next few weeks).
+
+## How to get the datasets
+
+1.  **Navigate the data catalog.** The catalog is available at
+    <https://datascientiafoundation.github.io/LivePeople-ws/datasets/>.
+    Please look at the available datasets and documentation. The catalog
+    contains both basic datasets (e.g., one sensor) and bundles of basic
+    sensors (e.g., motion sensors such as accelerometer and step
+    counter) split by data collection location. Any composition of
+    bundle, datasets and data collection location can be requested
+    coherently with your research proposal.
+
+2.  **Proposal submission.** All authors must submit a data download
+    request through the web form that will be made available from _{{< var request_date >}}_ by providing the following information:
+
+    -   Names and contact information of the authors working on the
+        dataset and their institution.
+    -   Description of the research proposal. Provide a description of
+        your idea and how you plan to use the dataset.
+    -   Select from a list the datasets to download. On the data
+        catalog, you can find and navigate the list of downloadable
+        datasets and navigate the codebooks.
+
+    The key requirements to obtain a copy of the data are the affiliation
+    with a research institution, either private or public, the coherence
+    between the requested data and the research proposal, and the
+    acceptance of the Terms and License Agreement. Key licensing terms include:
+
+    - datasets are used exclusively for research purposes;
+    -  redistribution of the datasets is prohibited;
+    -  datasets cannot be publicly shared (e.g., on a website);
+    -  any attempt to reverse engineer any portion of the data or to
+        re-identify the participants is strictly forbidden and could
+        constitute unlawful processing of personal data.
+
+2.  **Dataset download.** The proposal request is evaluated by the
+    University of Trento (UNITN), and in case of a positive response,
+    the participants receive an email with the instructions for
+    downloading the dataset after a few days. The requested data are
+    shared with the participants through dedicated storage.
+
+## Contacts
+
+For any questions related to the workshop or technical support regarding
+the datasets, please do not hesitate to reach out to the organizers at
+**datadistribution.knowdive \[at\] unitn.it**.
+
+## Examples of previous studies
+
+Previous studies investigated various aspects of high-quality rich
+datasets that include sensor data and self-reports. Some examples are:
+the use of social media [@giunchiglia2018mobile], the quality of answers and mislabeling
+[@bontempelli2020learning], the usefulness of self-reports towards understanding the user's
+subjective perspective of the local context [@zhang2021putting], the impact of COVID
+on the students' lives [@girardini2023adaptation], cross-individual activity recognition
+[@shen2022federated], mood inference [@meegahapola2023generalization], diversity perceptions in a community
+[@kun2022], activity recognition [@bouton2022your], social context inference while eating
+[@kammoun2023understanding], inferring mood-while-eating [@bangamuarachchi2023inferring], and the generation of
+contextually rich data with other reference datasets [@giunchiglia2024big].
+
+### References
+
+::: {#refs}
+:::

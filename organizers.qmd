@@ -1,0 +1,82 @@
+---
+title: Organizing Committee
+include-in-header:
+  - text: |
+      <style>
+      img {
+            clip-path: circle();
+            width:150px;
+        }
+      </style>
+---
+
+::: {.grid}
+
+::: {.g-col-3}
+![](img/andrea.jpg)
+:::
+
+::: {.g-col-8}
+[**Andrea Bontempelli**](https://www.abonte.eu/) <br/>
+*University of Trento*
+
+Andrea Bontempelli is a postdoctoral researcher at the University of Trento working on interactive machine learning and concept drift with a focus on sensor data streams and noisy data. He also has expertise in research data management.
+:::
+
+::: {.g-col-3}
+![](img/matteo.png)
+:::
+
+::: {.g-col-8}
+[**Matteo Busso**](https://orcid.org/0000-0002-3788-0203) <br/>
+*University of Trento*
+
+Matteo Busso holds a Master's in Sociology and a PhD in Computer Science from the University of Trento (Italy), where he focused on integrating sociological methods into ubiquitous computing experiments. His research aims to gather high-quality data on individual diversity for social interactions. He teaches AI to non-experts and contributes to designing and implementing a research infrastructure for generating and sharing diversity-aware data.
+:::
+
+::: {.g-col-3}
+![](img/lakmal-meegahapola.jpg)
+:::
+
+::: {.g-col-8}
+[**Lakmal Meegahapola**](https://lakmalmeegahapola.com/) <br/>
+*ETH Zurich*
+
+Lakmal Meegahapola is a postdoctoral researcher at ETH Zurich. He obtained his PhD from EPFL in 2024 and has also worked at Google Research, Nokia Bell Labs, the University of Cambridge, and Singapore Management University. His work lies at the intersection of mobile and wearable sensing, digital health, and machine learning, where he develops safe and robust AI/ML models for multimodal time series data. He is on the editorial board of ACM IMWUT, IEEE Pervasive Computing, and also is an Associate Chair of ACM CHI.
+:::
+
+::: {.g-col-3}
+![](img/amalia.jpg)
+:::
+
+::: {.g-col-8}
+[**Amalia de Götzen**](https://vbn.aau.dk/en/persons/ago) <br/>
+*Aalborg University*
+
+
+Amalia de Götzen is an Associate Professor at Aalborg University in Copenhagen and a member of the Service Design Lab. Her work as a researcher and educator lies at the intersection of interaction design and service design, with a focus on digital civics.
+:::
+
+::: {.g-col-3}
+![](img/fausto.png)
+:::
+
+::: {.g-col-8}
+[**Fausto Giunchiglia**](https://fausto.disi.unitn.it/) <br/>
+*University of Trento*
+
+Fausto Giunchiglia is a professor of Computer Science at the University of Trento working on end-to-end data-centric AI, from data collection to data analysis, with a special interest on the study of human behavior.
+:::
+
+::: {.g-col-3}
+![](img/daniel.jpg)
+:::
+
+::: {.g-col-8}
+[**Daniel Gatica-Perez**](https://www.idiap.ch/~gatica/) <br/>
+*Idiap Research Institute & EPFL*
+
+Daniel Gatica-Perez leads the Social Computing Group at Idiap and is a professor at EPFL in Switzerland. He has worked extensively on smartphone sensing research. He co-organized the Nokia Mobile Data Challenge in 2012, served as General Co-Chair of ACM Ubicomp/ISWC in 2015, and serves as Associate Editor of PACM IMWUT since the journal's foundation.
+:::
+
+:::

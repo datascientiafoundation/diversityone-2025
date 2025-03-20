@@ -1,0 +1,71 @@
+---
+title: Home
+page-layout: full
+toc: false
+back-to-top-navigation: false
+anchor-sections: false
+title-block-banner: img/banner_low.jpeg
+include-in-header:
+  - text: |
+      <style>
+      .quarto-title > h1.title {
+        opacity: 0 !important;
+       }
+      .quarto-title-block .quarto-title-banner {
+        background-position-y: center;
+        height: 500px;
+      }
+      </style>
+---
+
+::: {style="text-align: center"}
+<h1>DiversityOne Open Challenge at UbiComp/ISWC 2025</h1>
+<h3>Exploring Diversity in People’s Everyday Life Behavior with Mobile Data</h3>
+:::
+
+<br/>
+<br/>
+
+::: {.grid}
+
+::: {.g-col-1}
+**Date**
+
+**Location**
+:::
+
+::: {.g-col-11}
+October 12-13, 2025
+
+Espoo, Finland
+:::
+:::
+
+<br/>
+
+The first edition of the open challenge aims to explore the DiversityOne dataset, one of the larger and most geographically diverse datasets for everyday life behavior modeling. The dataset combines questionnaires about demographic and psychosocial variables from 18K participants, and passive smartphone sensor data and self-reported annotation from 782 students across eight universities in eight countries. The study followed ethical approval procedures in each of the participating institutions and is compliant with the European General Data Protection Regulation (GDPR). This dataset is a rich, flexible and valuable research resource that can be used to answer research questions in multiple fields: machine learning, mobile sensing, computational social science, behavioral recognition, and many others. This challenge offers the opportunity to work on the dataset and gain useful feedback on your research. We welcome contributions from researchers from diverse backgrounds and geographical provenances.
+
+<br/>
+
+
+
+::: {style="text-align: center"}
+  <a href="cfp.qmd" class="btn btn-secondary"> Call for paper</a>
+  <a href="https://dl.acm.org/doi/10.1145/3712289" class="btn btn-secondary"> _DiversityOne_  dataset paper</a>
+  <a href="https://datascientiafoundation.github.io/LivePeople-ws/datasets/" class="btn btn-secondary"> Data catalog</a>
+  <a href="https://datascientia.eu/projects/diversityone/" class="btn btn-secondary">Dataset webpage</a>
+  <a href="https://www.ubicomp.org/ubicomp-iswc-2025/" class="btn btn-secondary"> UbiComp webpage</a>
+:::
+
+
+<br/>
+
+## News
+
+- **March 20, 2025** - This website is live.
+
+## Contacts
+
+For any questions related to the workshop or technical support regarding
+the datasets, please do not hesitate to reach out to the organizers at
+**datadistribution.knowdive \[at\] unitn.it**.
