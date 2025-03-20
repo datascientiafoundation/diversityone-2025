@@ -147,11 +147,10 @@ be made by a committee based on the following criteria:
 -   *impact*: how likely is it that the work can lead to impactful
     results if the paper is further extended.
 
-## Special track in Journal
+## Extended version in journal
 
 A selection of the accepted papers will be invited to submit an extended
-version to a special track in a journal related to the topics of the
-workshop (details will be released in the next few weeks).
+version to [IEEE Pervasive Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7756).
 
 ## How to get the datasets
 
