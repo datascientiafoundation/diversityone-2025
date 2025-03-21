@@ -76,7 +76,7 @@ Fausto Giunchiglia is a professor of Computer Science at the University of Trent
 [**Daniel Gatica-Perez**](https://www.idiap.ch/~gatica/) <br/>
 *Idiap Research Institute & EPFL*
 
-Daniel Gatica-Perez leads the Social Computing Group at Idiap and is a professor at EPFL in Switzerland. He has worked extensively on smartphone sensing research. He co-organized the Nokia Mobile Data Challenge in 2012, served as General Co-Chair of ACM Ubicomp/ISWC in 2015, and serves as Associate Editor of PACM IMWUT since the journal's foundation.
+Daniel Gatica-Perez leads the Social Computing Group at Idiap and is a professor at EPFL. He has worked extensively on smartphone sensing research. He served as General Co-Chair of ACM Ubicomp/ISWC 2015, and currently serves as an Associate Editor of PACM IMWUT.
 :::
 
 :::
