@@ -1,5 +1,5 @@
 ---
-title: Home
+#title: Home
 page-layout: full
 toc: false
 back-to-top-navigation: false
@@ -11,15 +11,15 @@ include-in-header:
         h2 {
         border-bottom: 0px;
         }
-      #   .quarto-title > h1.title {
-      #    opacity: 0 !important;
-      #   }
-      #   .quarto-title-block .quarto-title-banner {
-      #    background-position-y: center;
-      #    width: auto;
-      #     height: 100%;
-      #   max-height: 20vh;
-      #  }
+        #   .quarto-title > h1.title {
+        #    opacity: 0 !important;
+        #   }
+        #   .quarto-title-block .quarto-title-banner {
+        #    background-position-y: center;
+        #    width: auto;
+        #     height: 100%;
+        #   max-height: 20vh;
+        #  }
       </style>
 #       .quarto-title > h1.title {
 #         opacity: 0 !important;
@@ -33,6 +33,8 @@ include-in-header:
 #       </style>
 ---
 
+
+![](img/banner_low.jpeg){width=100%}
 
 <br/>
 <br/>
