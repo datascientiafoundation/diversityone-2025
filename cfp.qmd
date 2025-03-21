@@ -9,13 +9,15 @@ the largest and most geographically diverse smartphone datasets about
 everyday life behavior. The dataset combines questionnaires about
 demographic and psychosocial variables from 18K participants, and
 passive smartphone sensor data and self-reported annotation from 782
-students across eight universities in eight countries. This dataset is a
-rich and valuable research resource that can be used to address research
+students across eight universities in eight countries.
+
+This dataset is a rich and valuable research resource that can be used to address research
 questions in multiple fields: machine learning, mobile sensing,
 computational social science, design with data, and many others. The
 open challenge offers the opportunity to work on the dataset and gain
-useful feedback on your research. We welcome contributions from
-researchers from *diverse backgrounds and geographical provenances*. In
+useful feedback on your research.
+
+We welcome contributions from researchers from *diverse backgrounds and geographical provenances*. In
 particular, we welcome contributions that address aspects including, but
 not limited to:
 
@@ -66,17 +68,13 @@ not limited to:
 
 ## Important links
 
-**Dataset paper**
-[https://dl.acm.org/doi/10.1145/3712289](https://dl.acm.org/doi/10.1145/3712289)
+[**Dataset paper**](https://dl.acm.org/doi/10.1145/3712289) describes the methodology and the research protocol.
 
-**Data catalog**
-[{{< var link.catalog >}}]({{< var link.catalog >}})
+[**Data catalog**]({{< var link.catalog >}}) lists all available data.
 
-**Dataset webpage**
-[https://datascientia.eu/projects/diversityone/](https://datascientia.eu/projects/diversityone/)
+[**Dataset webpage**](https://datascientia.eu/projects/diversityone/) summarizes the key information about the data.
 
-**Conference webpage UbiComp / ISWC 2025**
-[https://www.ubicomp.org/ubicomp-iswc-2025/](https://www.ubicomp.org/ubicomp-iswc-2025/)
+[**Conference webpage UbiComp / ISWC 2025**](https://www.ubicomp.org/ubicomp-iswc-2025/)
 
 ## The dataset
 
@@ -86,19 +84,21 @@ Internet of US"](https://doi.org/10.3030/823783). The
 [dataset paper](https://dl.acm.org/doi/10.1145/3712289)
 describes in detail the dataset together with the data collection
 methodology and statistics. contains data from college students in eight
-countries: China, Denmark, India, Italy, Mexico, Mongolia, Paraguay, and
-the United Kingdom. The study followed ethical approval procedures in
+countries: **China, Denmark, India, Italy, Mexico, Mongolia, Paraguay**, and
+the **United Kingdom**. The study followed ethical approval procedures in
 each of the participating institutions and is compliant with the
-European General Data Protection Regulation (GDPR). The dataset contains
-questionnaire answers from over 18K students, 782 of whom agreed to
-participate in a longitudinal survey of four weeks. The study used the
+European General Data Protection Regulation (GDPR).
+
+The dataset contains questionnaire answers from over 18K students, 782 of whom agreed to
+participate in a longitudinal survey of **four weeks**. The study used the
 [iLog app](https://datascientia.disi.unitn.it/ilog/) to collect
-data from smartphone sensors such as accelerometer, gyroscope, and GPS,
+data from **smartphone sensors** such as accelerometer, gyroscope, and GPS,
 as well as derived information such as notification interactions, app
 usage, activities, and step counts. During this period, participants
-reported their activities, locations, social context, and mood, with
-daily reports on sleep quality and daily expectations. The combination
-of sensor data and self-reported data across eight universities
+reported their **activities**, **locations**, **social context**, and **mood**, with
+daily reports on **sleep quality** and **daily expectations**.
+
+The combination of sensor data and self-reported data across eight universities
 worldwide fosters research in ubiquitous computing, mobile sensing,
 machine learning, computational social science, and design with data.
 The dataset also opens the possibility for the design of new data-driven
@@ -110,11 +110,13 @@ studies of diverse human behavior.
 are expected to reflect on, analyze, or test the *DiversityOne* dataset.
 Submitted papers should report the work's motivation, methodology,
 results, possible future analyses, and include an ethical statement
-describing potential societal impact. The paper should follow the
-[UbiComp/ISWC template and guideline](https://www.ubicomp.org/ubicomp-iswc-2025/authors/formatting/).
+describing potential societal impact.
+
+The paper should follow the [UbiComp/ISWC template and guideline](https://www.ubicomp.org/ubicomp-iswc-2025/authors/formatting/).
 All papers and any supplementary material must be **anonymized**. Each
 submission will be reviewed by two reviewers from a panel of experts. All authors are asked
 to adhere to the [Accessible Submission Guidelines](https://sigchi.org/resources/guides-for-authors/accessibility/).
+
 All accepted publications will be published on the ACM Digital Library
 as part of the UbiComp 2025 proceedings. At least one author of each
 accepted paper needs to register for the workshop. During the workshop,
@@ -154,14 +156,15 @@ version to [IEEE Pervasive Computing](https://ieeexplore.ieee.org/xpl/RecentIssu
 
 ## How to get the datasets
 
-1.  **Navigate the data catalog.** The catalog is available at
-    <https://datascientiafoundation.github.io/LivePeople-ws/datasets/>.
+1.  **Navigate the data catalog.** The catalog is available on the [data catalog]({{< var link.catalog >}}).
     Please look at the available datasets and documentation. The catalog
-    contains both basic datasets (e.g., one sensor) and bundles of basic
-    sensors (e.g., motion sensors such as accelerometer and step
-    counter) split by data collection location. Any composition of
-    bundle, datasets and data collection location can be requested
-    coherently with your research proposal.
+    contains
+
+    -  basic _datasets_ (e.g., one single modality such as [accelerometer](https://datascientiafoundation.github.io/LivePeople-ws/datasets/2020-DiversityOne-Trento-Accelerometer/) or [annotations for one university](https://datascientiafoundation.github.io/LivePeople-ws/datasets/2020-DiversityOne-Amrita-Diachronic-Interactions/))
+    -  _dataset bundles_ of basic sensors (e.g., [motion sensors](https://datascientiafoundation.github.io/LivePeople-ws/datasets/2020-DiversityOne-Copenhagen-Motion/) grouping accelerometer and step counter) split by data collection location.
+    -  _projects_ grouping all data of one single university.
+    
+    Any composition of bundle, datasets and university project can be requested coherently with your research proposal.
 
 2.  **Proposal submission.** All authors must submit a data download
     request through the web form that will be made available from _{{< var request_date >}}_ by providing the following information:
@@ -202,14 +205,18 @@ the datasets, please do not hesitate to reach out to the organizers at
 
 Previous studies investigated various aspects of high-quality rich
 datasets that include sensor data and self-reports. Some examples are:
-the use of social media [@giunchiglia2018mobile], the quality of answers and mislabeling
-[@bontempelli2020learning], the usefulness of self-reports towards understanding the user's
-subjective perspective of the local context [@zhang2021putting], the impact of COVID
-on the students' lives [@girardini2023adaptation], cross-individual activity recognition
-[@shen2022federated], mood inference [@meegahapola2023generalization], diversity perceptions in a community
-[@kun2022], activity recognition [@bouton2022your], social context inference while eating
-[@kammoun2023understanding], inferring mood-while-eating [@bangamuarachchi2023inferring], and the generation of
-contextually rich data with other reference datasets [@giunchiglia2024big].
+
+- the use of social media [@giunchiglia2018mobile];
+- the quality of answers and mislabeling [@bontempelli2020learning]
+- the usefulness of self-reports towards understanding the user's subjective perspective of the local context [@zhang2021putting];
+- the impact of COVID on the students' lives [@girardini2023adaptation];
+- cross-individual activity recognition [@shen2022federated]; 
+- mood inference [@meegahapola2023generalization];
+- diversity perceptions in a community [@kun2022];
+- activity recognition [@bouton2022your];
+- social context inference while eating [@kammoun2023understanding];
+- inferring mood-while-eating [@bangamuarachchi2023inferring];
+- the generation of contextually rich data with other reference datasets [@giunchiglia2024big].
 
 ### References
 

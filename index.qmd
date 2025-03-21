@@ -34,7 +34,7 @@ include-in-header:
 ---
 
 
-![](img/banner_low.jpeg){width=100%}
+![](img/banner_low.jpeg){width=100% fig-alt="A banner containing name, date and location of the workshop."}
 
 <br/>
 <br/>
@@ -64,7 +64,28 @@ Espoo, Finland
 
 <br/>
 
-The first edition of the open challenge aims to explore the all-new [_DiversityOne_](https://datascientia.eu/projects/diversityone/) dataset, one of the larger and most **geographically diverse** datasets for **everyday life behavior** modeling. The dataset combines questionnaires about demographic and psychosocial variables from 18K participants, and passive smartphone **sensor data** and **self-reported annotations** from 782 students across eight universities in **eight countries**. The study followed ethical approval procedures in each of the participating institutions and is compliant with the European General Data Protection Regulation (GDPR). This dataset is a rich, flexible and valuable research resource that can be used to answer research questions in multiple fields: machine learning, mobile sensing, computational social science, behavioral recognition, and many others. This challenge offers the opportunity to work on the dataset and gain helpful feedback on your research. A selection of the accepted papers will be invited to submit an extended version to [IEEE Pervasive Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7756). We welcome contributions from researchers from **diverse backgrounds** and **geographical provenances**.
+The first edition of the open challenge aims to explore the all-new [_DiversityOne_](https://datascientia.eu/projects/diversityone/) dataset, one of the larger and most **geographically diverse** datasets for **everyday life behavior** modeling.
+
+Key dataset statistics:
+
+- intensive longitudinal survey of **4 weeks**
+- questionnaires about demographic and psychosocial variables from 18K participants
+- passive smartphone **sensor data** from 26 modalities and **self-reported annotations** from 782 students
+- data from eight universities in **eight countries** from both the Global North and the Global South
+
+The study followed ethical approval procedures in each of the participating institutions and is compliant with the European General Data Protection Regulation (GDPR). This dataset is a rich, flexible and valuable research resource that can be used to answer research questions in multiple fields:
+
+- Data-centric AI & machine learning
+- mobile sensing & behavioral modeling
+- computational social science
+- cultural diversity in everyday life
+- human-centered AI
+- data-centric design
+- responsible/ethical AI in UbiComp
+- ...
+
+This challenge offers the opportunity to work on the dataset and gain helpful feedback on your research. 
+A selection of the accepted papers will be invited to submit an extended version to [IEEE Pervasive Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7756). We welcome contributions from researchers from **diverse backgrounds** and **geographical provenances**.
 
 <br/>
 
