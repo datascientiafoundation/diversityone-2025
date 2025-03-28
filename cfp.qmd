@@ -49,7 +49,7 @@ not limited to:
 ## Important dates
 
 -   **From** _~~March 28, 2025~~_ **{{< var request_date >}}**^[The data requests will be received starting from _April 3rd_, instead of March 28th, due to final adjustments in the distribution procedure.]: Submit your research proposal using the web
-    form (_the link will be added on this website from March 28_) and
+    form (_the link will be added on this website from {{< var request_date >}}_) and
     request the datasets that you need to answer your research
     questions. Please specify that you are requesting the dataset to
     submit your work to the workshop. The full list of available
