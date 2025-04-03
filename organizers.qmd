@@ -1,5 +1,4 @@
 ---
-title: Organizing Committee
 include-in-header:
   - text: |
       <style>
@@ -9,6 +8,8 @@ include-in-header:
         }
       </style>
 ---
+
+## Organizing Committee
 
 ::: {.grid}
 
@@ -79,4 +80,27 @@ Fausto Giunchiglia is a professor of Computer Science at the University of Trent
 Daniel Gatica-Perez leads the Social Computing Group at Idiap and is a professor at EPFL. He has worked extensively on smartphone sensing research. He served as General Co-Chair of ACM Ubicomp/ISWC 2015, and currently serves as an Associate Editor of PACM IMWUT.
 :::
 
+:::
+
+## Dataset Distribution Technical Support
+
+::: {.grid}
+
+::: {.g-col-3}
+![](img/ali.jpg)
+:::
+
+::: {.g-col-8}
+[**Ali Hamza**](https://ds.datascientia.eu/community/public/profile/U2FsdGVkX19%252FH6GODRZZI3dWoj2u74zF26zQyYAO9TTFNKcCpRBTOTLc0m8oQvht) <br/>
+*University of Trento*
+:::
+
+::: {.g-col-3}
+![](img/mugi.jpg)
+:::
+
+::: {.g-col-8}
+[**Munkhdelger Bayanjargal**](http://www.linkedin.com/in/munkhdelger-bayanjargal-b2467a251) <br/>
+*University of Trento*
+:::
 :::
