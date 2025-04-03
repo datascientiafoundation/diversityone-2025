@@ -48,8 +48,7 @@ not limited to:
 
 ## Important dates
 
--   **From** _~~March 28, 2025~~_ **{{< var request_date >}}**^[The data requests will be received starting from _April 3rd_, instead of March 28th, due to final adjustments in the distribution procedure.]: Submit your research proposal using the web
-    form (_the link will be added on this website from {{< var request_date >}}_) and
+-   **From** _~~March 28, 2025~~_ **{{< var request_date >}}**^[The data requests will be received starting from _April 3rd_, instead of March 28th, due to final adjustments in the distribution procedure.]: Submit your research proposal using the [web form]({{< var link.request >}}) and
     request the datasets that you need to answer your research
     questions. Please specify that you are requesting the dataset to
     submit your work to the workshop. The full list of available
@@ -71,6 +70,8 @@ not limited to:
 [**Dataset paper**](https://dl.acm.org/doi/10.1145/3712289) describes the methodology and the research protocol.
 
 [**Data catalog**]({{< var link.catalog >}}) lists all available data.
+
+[**Dataset request form**]({{< var link.request >}}) to send the research proposal and to request copy of the datasets.
 
 [**Dataset webpage**](https://datascientia.eu/projects/diversityone/) summarizes the key information about the data.
 
