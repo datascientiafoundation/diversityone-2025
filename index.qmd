@@ -114,3 +114,21 @@ A selection of the accepted papers will be invited to submit an extended version
 For any questions related to the workshop or technical support regarding
 the datasets, please do not hesitate to reach out to the organizers at
 **datadistribution.knowdive \[at\] unitn.it**.
+
+<br/>
+
+
+
+::: {layout-ncol=6 layout-valign="center"}
+[![](img/logo/unitn.png)](http://unitn.it/){fig-alt="UNITN logo"}
+
+[![](img/logo/eth.svg)](https://ethz.ch/){fig-alt="ETH logo"}
+
+[![](img/logo/aau.png)](https://www.aau.dk/){fig-alt="AAU logo"}
+
+[![](img/logo/idiap.png)](https://www.idiap.ch/){fig-alt="IDIAP logo"}
+
+[![](img/logo/epfl.svg)](https://www.epfl.ch/){fig-alt="EPFL logo"}
+
+[![](img/logo/ds.png)](https://datascientia.eu/){fig-alt="Datascientia logo"}
+:::
