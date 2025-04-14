@@ -16,7 +16,7 @@ website:
         text: Call for Papers
       - href: organizers.qmd
         text: Organizers
-      - href: pcmember.qmd
+      - href: pcmembers.qmd
         text: Program Committee
       #- href:program.qmd
       #  text: Program
