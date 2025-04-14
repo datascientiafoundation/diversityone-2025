@@ -7,3 +7,5 @@ To preview the website locally
 ```bash
 quarto preview
 ```
+
+To build the website, just push the changes to this repository.
