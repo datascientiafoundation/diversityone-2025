@@ -82,7 +82,7 @@ Daniel Gatica-Perez leads the Social Computing Group at Idiap and is a professor
 
 :::
 
-## Dataset Distribution Technical Support
+## Technical Support
 
 ::: {.grid}
 
