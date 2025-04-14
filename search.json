@@ -1,5 +1,68 @@
 [
   {
+    "objectID": "pcmember.html",
+    "href": "pcmember.html",
+    "title": "Program Committee",
+    "section": "",
+    "text": "being updated\nWe are grateful to reviewers for their time and expertise in evaluating the workshop submission.\n\nMichael Kizito, Makerere University, Uganda\nAmarsanaa Ganbold, National University of Mongolia, Mongolia\nRonald Chenu Abente Acosta, University of Trento\nWanyi Zhang, Chongqing University, China\nQiang Shen, China …\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "organizers.html",
+    "href": "organizers.html",
+    "title": "D1 @ UbiComp 2025",
+    "section": "",
+    "text": "Andrea Bontempelli  University of Trento\nAndrea Bontempelli is a postdoctoral researcher at the University of Trento working on interactive machine learning and concept drift with a focus on sensor data streams and noisy data. He also has expertise in research data management.\n\n\n\n\n\nMatteo Busso  University of Trento\nMatteo Busso holds a Master’s in Sociology and a PhD in Computer Science from the University of Trento (Italy), where he focused on integrating sociological methods into ubiquitous computing experiments. His research aims to gather high-quality data on individual diversity for social interactions. He teaches AI to non-experts and contributes to designing and implementing a research infrastructure for generating and sharing diversity-aware data.\n\n\n\n\n\nLakmal Meegahapola  ETH Zurich\nLakmal Meegahapola is a postdoctoral researcher at ETH Zurich. He obtained his PhD from EPFL in 2024 and has also worked at Google Research, Nokia Bell Labs, the University of Cambridge, and Singapore Management University. His work lies at the intersection of mobile and wearable sensing, digital health, and machine learning, where he develops safe and robust AI/ML models for multimodal time series data. He is on the editorial board of ACM IMWUT, IEEE Pervasive Computing, and also is an Associate Chair of ACM CHI.\n\n\n\n\n\nAmalia de Götzen  Aalborg University\nAmalia de Götzen is an Associate Professor at Aalborg University in Copenhagen and a member of the Service Design Lab. Her work as a researcher and educator lies at the intersection of interaction design and service design, with a focus on digital civics.\n\n\n\n\n\nFausto Giunchiglia  University of Trento\nFausto Giunchiglia is a professor of Computer Science at the University of Trento working on end-to-end data-centric AI, from data collection to data analysis, with a special interest on the study of human behavior.\n\n\n\n\n\nDaniel Gatica-Perez  Idiap Research Institute & EPFL\nDaniel Gatica-Perez leads the Social Computing Group at Idiap and is a professor at EPFL. He has worked extensively on smartphone sensing research. He served as General Co-Chair of ACM Ubicomp/ISWC 2015, and currently serves as an Associate Editor of PACM IMWUT."
+  },
+  {
+    "objectID": "organizers.html#organizing-committee",
+    "href": "organizers.html#organizing-committee",
+    "title": "D1 @ UbiComp 2025",
+    "section": "",
+    "text": "Andrea Bontempelli  University of Trento\nAndrea Bontempelli is a postdoctoral researcher at the University of Trento working on interactive machine learning and concept drift with a focus on sensor data streams and noisy data. He also has expertise in research data management.\n\n\n\n\n\nMatteo Busso  University of Trento\nMatteo Busso holds a Master’s in Sociology and a PhD in Computer Science from the University of Trento (Italy), where he focused on integrating sociological methods into ubiquitous computing experiments. His research aims to gather high-quality data on individual diversity for social interactions. He teaches AI to non-experts and contributes to designing and implementing a research infrastructure for generating and sharing diversity-aware data.\n\n\n\n\n\nLakmal Meegahapola  ETH Zurich\nLakmal Meegahapola is a postdoctoral researcher at ETH Zurich. He obtained his PhD from EPFL in 2024 and has also worked at Google Research, Nokia Bell Labs, the University of Cambridge, and Singapore Management University. His work lies at the intersection of mobile and wearable sensing, digital health, and machine learning, where he develops safe and robust AI/ML models for multimodal time series data. He is on the editorial board of ACM IMWUT, IEEE Pervasive Computing, and also is an Associate Chair of ACM CHI.\n\n\n\n\n\nAmalia de Götzen  Aalborg University\nAmalia de Götzen is an Associate Professor at Aalborg University in Copenhagen and a member of the Service Design Lab. Her work as a researcher and educator lies at the intersection of interaction design and service design, with a focus on digital civics.\n\n\n\n\n\nFausto Giunchiglia  University of Trento\nFausto Giunchiglia is a professor of Computer Science at the University of Trento working on end-to-end data-centric AI, from data collection to data analysis, with a special interest on the study of human behavior.\n\n\n\n\n\nDaniel Gatica-Perez  Idiap Research Institute & EPFL\nDaniel Gatica-Perez leads the Social Computing Group at Idiap and is a professor at EPFL. He has worked extensively on smartphone sensing research. He served as General Co-Chair of ACM Ubicomp/ISWC 2015, and currently serves as an Associate Editor of PACM IMWUT."
+  },
+  {
+    "objectID": "organizers.html#dataset-distribution-technical-support",
+    "href": "organizers.html#dataset-distribution-technical-support",
+    "title": "D1 @ UbiComp 2025",
+    "section": "Dataset Distribution Technical Support",
+    "text": "Dataset Distribution Technical Support\n\n\n\n\n\nAli Hamza  University of Trento\n\n\n\n\n\nMunkhdelger Bayanjargal  University of Trento"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "D1 @ UbiComp 2025",
+    "section": "",
+    "text": "The first edition of the open challenge aims to explore the all-new DiversityOne dataset, one of the larger and most geographically diverse datasets for everyday life behavior modeling.\nKey dataset statistics:\nThe study followed ethical approval procedures in each of the participating institutions and is compliant with the European General Data Protection Regulation (GDPR). This dataset is a rich, flexible and valuable research resource that can be used to answer research questions in multiple fields:\nThis challenge offers the opportunity to work on the dataset and gain helpful feedback on your research. A selection of the accepted papers will be invited to submit an extended version to IEEE Pervasive Computing. We welcome contributions from researchers from diverse backgrounds and geographical provenances."
+  },
+  {
+    "objectID": "index.html#diversityone-open-challenge-at-ubicompiswc-2025",
+    "href": "index.html#diversityone-open-challenge-at-ubicompiswc-2025",
+    "title": "D1 @ UbiComp 2025",
+    "section": "DiversityOne Open Challenge at UbiComp/ISWC 2025",
+    "text": "DiversityOne Open Challenge at UbiComp/ISWC 2025\n\nExploring Diversity in People’s Everyday Life Behavior with Mobile Data"
+  },
+  {
+    "objectID": "index.html#news",
+    "href": "index.html#news",
+    "title": "D1 @ UbiComp 2025",
+    "section": "News",
+    "text": "News\n\nApril 3, 2025 - The link to submit the research proposal to request the datasets is available at https://ds.datascientia.eu/marketplace/welcome.\nMarch 28, 2025 - We will start receiving the dataset requests from April 3rd, instead of March 28th, due to final adjustments in the distribution procedure.\nMarch 20, 2025 - This website is live."
+  },
+  {
+    "objectID": "index.html#contacts",
+    "href": "index.html#contacts",
+    "title": "D1 @ UbiComp 2025",
+    "section": "Contacts",
+    "text": "Contacts\nFor any questions related to the workshop or technical support regarding the datasets, please do not hesitate to reach out to the organizers at datadistribution.knowdive [at] unitn.it."
+  },
+  {
+    "objectID": "program.html",
+    "href": "program.html",
+    "title": "Program",
+    "section": "",
+    "text": "TBD\n\n\n\n\nTime\nSession\n\n\n\n\n\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
     "objectID": "cfp.html",
     "href": "cfp.html",
     "title": "Call for Papers",
@@ -82,61 +145,5 @@
     "title": "Call for Papers",
     "section": "Footnotes",
     "text": "Footnotes\n\n\nThe data requests will be received starting from April 3rd, instead of March 28th, due to final adjustments in the distribution procedure.↩︎"
-  },
-  {
-    "objectID": "program.html",
-    "href": "program.html",
-    "title": "Program",
-    "section": "",
-    "text": "TBD\n\n\n\n\nTime\nSession\n\n\n\n\n\n\n\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "D1 @ UbiComp 2025",
-    "section": "",
-    "text": "The first edition of the open challenge aims to explore the all-new DiversityOne dataset, one of the larger and most geographically diverse datasets for everyday life behavior modeling.\nKey dataset statistics:\nThe study followed ethical approval procedures in each of the participating institutions and is compliant with the European General Data Protection Regulation (GDPR). This dataset is a rich, flexible and valuable research resource that can be used to answer research questions in multiple fields:\nThis challenge offers the opportunity to work on the dataset and gain helpful feedback on your research. A selection of the accepted papers will be invited to submit an extended version to IEEE Pervasive Computing. We welcome contributions from researchers from diverse backgrounds and geographical provenances."
-  },
-  {
-    "objectID": "index.html#diversityone-open-challenge-at-ubicompiswc-2025",
-    "href": "index.html#diversityone-open-challenge-at-ubicompiswc-2025",
-    "title": "D1 @ UbiComp 2025",
-    "section": "DiversityOne Open Challenge at UbiComp/ISWC 2025",
-    "text": "DiversityOne Open Challenge at UbiComp/ISWC 2025\n\nExploring Diversity in People’s Everyday Life Behavior with Mobile Data"
-  },
-  {
-    "objectID": "index.html#news",
-    "href": "index.html#news",
-    "title": "D1 @ UbiComp 2025",
-    "section": "News",
-    "text": "News\n\nApril 3, 2025 - The link to submit the research proposal to request the datasets is available at https://ds.datascientia.eu/marketplace/welcome.\nMarch 28, 2025 - We will start receiving the dataset requests from April 3rd, instead of March 28th, due to final adjustments in the distribution procedure.\nMarch 20, 2025 - This website is live."
-  },
-  {
-    "objectID": "index.html#contacts",
-    "href": "index.html#contacts",
-    "title": "D1 @ UbiComp 2025",
-    "section": "Contacts",
-    "text": "Contacts\nFor any questions related to the workshop or technical support regarding the datasets, please do not hesitate to reach out to the organizers at datadistribution.knowdive [at] unitn.it."
-  },
-  {
-    "objectID": "organizers.html",
-    "href": "organizers.html",
-    "title": "D1 @ UbiComp 2025",
-    "section": "",
-    "text": "Andrea Bontempelli  University of Trento\nAndrea Bontempelli is a postdoctoral researcher at the University of Trento working on interactive machine learning and concept drift with a focus on sensor data streams and noisy data. He also has expertise in research data management.\n\n\n\n\n\nMatteo Busso  University of Trento\nMatteo Busso holds a Master’s in Sociology and a PhD in Computer Science from the University of Trento (Italy), where he focused on integrating sociological methods into ubiquitous computing experiments. His research aims to gather high-quality data on individual diversity for social interactions. He teaches AI to non-experts and contributes to designing and implementing a research infrastructure for generating and sharing diversity-aware data.\n\n\n\n\n\nLakmal Meegahapola  ETH Zurich\nLakmal Meegahapola is a postdoctoral researcher at ETH Zurich. He obtained his PhD from EPFL in 2024 and has also worked at Google Research, Nokia Bell Labs, the University of Cambridge, and Singapore Management University. His work lies at the intersection of mobile and wearable sensing, digital health, and machine learning, where he develops safe and robust AI/ML models for multimodal time series data. He is on the editorial board of ACM IMWUT, IEEE Pervasive Computing, and also is an Associate Chair of ACM CHI.\n\n\n\n\n\nAmalia de Götzen  Aalborg University\nAmalia de Götzen is an Associate Professor at Aalborg University in Copenhagen and a member of the Service Design Lab. Her work as a researcher and educator lies at the intersection of interaction design and service design, with a focus on digital civics.\n\n\n\n\n\nFausto Giunchiglia  University of Trento\nFausto Giunchiglia is a professor of Computer Science at the University of Trento working on end-to-end data-centric AI, from data collection to data analysis, with a special interest on the study of human behavior.\n\n\n\n\n\nDaniel Gatica-Perez  Idiap Research Institute & EPFL\nDaniel Gatica-Perez leads the Social Computing Group at Idiap and is a professor at EPFL. He has worked extensively on smartphone sensing research. He served as General Co-Chair of ACM Ubicomp/ISWC 2015, and currently serves as an Associate Editor of PACM IMWUT."
-  },
-  {
-    "objectID": "organizers.html#organizing-committee",
-    "href": "organizers.html#organizing-committee",
-    "title": "D1 @ UbiComp 2025",
-    "section": "",
-    "text": "Andrea Bontempelli  University of Trento\nAndrea Bontempelli is a postdoctoral researcher at the University of Trento working on interactive machine learning and concept drift with a focus on sensor data streams and noisy data. He also has expertise in research data management.\n\n\n\n\n\nMatteo Busso  University of Trento\nMatteo Busso holds a Master’s in Sociology and a PhD in Computer Science from the University of Trento (Italy), where he focused on integrating sociological methods into ubiquitous computing experiments. His research aims to gather high-quality data on individual diversity for social interactions. He teaches AI to non-experts and contributes to designing and implementing a research infrastructure for generating and sharing diversity-aware data.\n\n\n\n\n\nLakmal Meegahapola  ETH Zurich\nLakmal Meegahapola is a postdoctoral researcher at ETH Zurich. He obtained his PhD from EPFL in 2024 and has also worked at Google Research, Nokia Bell Labs, the University of Cambridge, and Singapore Management University. His work lies at the intersection of mobile and wearable sensing, digital health, and machine learning, where he develops safe and robust AI/ML models for multimodal time series data. He is on the editorial board of ACM IMWUT, IEEE Pervasive Computing, and also is an Associate Chair of ACM CHI.\n\n\n\n\n\nAmalia de Götzen  Aalborg University\nAmalia de Götzen is an Associate Professor at Aalborg University in Copenhagen and a member of the Service Design Lab. Her work as a researcher and educator lies at the intersection of interaction design and service design, with a focus on digital civics.\n\n\n\n\n\nFausto Giunchiglia  University of Trento\nFausto Giunchiglia is a professor of Computer Science at the University of Trento working on end-to-end data-centric AI, from data collection to data analysis, with a special interest on the study of human behavior.\n\n\n\n\n\nDaniel Gatica-Perez  Idiap Research Institute & EPFL\nDaniel Gatica-Perez leads the Social Computing Group at Idiap and is a professor at EPFL. He has worked extensively on smartphone sensing research. He served as General Co-Chair of ACM Ubicomp/ISWC 2015, and currently serves as an Associate Editor of PACM IMWUT."
-  },
-  {
-    "objectID": "organizers.html#dataset-distribution-technical-support",
-    "href": "organizers.html#dataset-distribution-technical-support",
-    "title": "D1 @ UbiComp 2025",
-    "section": "Dataset Distribution Technical Support",
-    "text": "Dataset Distribution Technical Support\n\n\n\n\n\nAli Hamza  University of Trento\n\n\n\n\n\nMunkhdelger Bayanjargal  University of Trento"
   }
 ]
