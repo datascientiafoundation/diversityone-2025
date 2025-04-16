@@ -93,11 +93,6 @@ A selection of the accepted papers will be invited to submit an extended version
 
 ::: {style="text-align: center"}
   <a href="cfp.qmd" class="btn btn-secondary"> Call for papers</a>
-  <a href="https://dl.acm.org/doi/10.1145/3712289" class="btn btn-secondary"> _DiversityOne_  dataset paper</a>
-  <a href="https://datascientiafoundation.github.io/LivePeople-ws/datasets/" class="btn btn-secondary"> Data catalog</a>
-  <a href="https://ds.datascientia.eu/marketplace/welcome" class="btn btn-secondary"> Research proposal form</a>
-  <a href="https://datascientia.eu/projects/diversityone/" class="btn btn-secondary">Dataset webpage</a>
-  <a href="https://www.ubicomp.org/ubicomp-iswc-2025/" class="btn btn-secondary"> UbiComp webpage</a>
 :::
 
 
