@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "pcmembers.html",
-    "href": "pcmembers.html",
-    "title": "Program Committee",
-    "section": "",
-    "text": "being updated\nWe are grateful to reviewers for their time and expertise in evaluating the workshop submissions.\n\nMichael Kizito, Makerere University, Uganda\nAmarsanaa Ganbold, National University of Mongolia, Mongolia\nRonald Chenu Abente Acosta, University of Trento, Italy\nWanyi Zhang, Chongqing University, China\nQiang Shen, China\nBiswanath Dutta, Indian Statistical Institute Bangalore, India\nJahna Otterbacher, Open University of Cyprus, Cyprus\n…\n\n\n\n\n Back to top"
-  },
-  {
     "objectID": "organizers.html",
     "href": "organizers.html",
     "title": "D1 @ UbiComp 2025",
@@ -28,6 +21,13 @@
     "text": "Technical Support\n\n\n\n\n\nAli Hamza  University of Trento\n\n\n\n\n\nMunkhdelger Bayanjargal  University of Trento"
   },
   {
+    "objectID": "program.html",
+    "href": "program.html",
+    "title": "Program",
+    "section": "",
+    "text": "To be announced!\n\n\n\n\n Back to top"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "D1 @ UbiComp 2025",
@@ -46,7 +46,7 @@
     "href": "index.html#news",
     "title": "D1 @ UbiComp 2025",
     "section": "News",
-    "text": "News\n\nApril 14, 2025 - We’ve just released on Github the code for feature engineering on DiversityOne dataset. This code is valuable resource for analyzing and working on the dataset.\nApril 3, 2025 - The link to submit the research proposal to request the datasets is available at https://ds.datascientia.eu/marketplace/welcome.\nMarch 28, 2025 - We will start receiving the dataset requests from April 3rd, instead of March 28th, due to final adjustments in the distribution procedure.\nMarch 20, 2025 - This website is live."
+    "text": "News\n\nMay, 20, 2025 - The submission link is https://new.precisionconference.com/submissions (Society: SIGCHI  &gt;  Conference: Ubicomp/ISWC 2025  &gt;  Track: Ubicomp/ISWC 2025 DiversityOne-Challenge).\nApril 14, 2025 - We’ve just released on Github the code for feature engineering on DiversityOne dataset. This code is valuable resource for analyzing and working on the dataset.\nApril 3, 2025 - The link to submit the research proposal to request the datasets is available at https://ds.datascientia.eu/marketplace/welcome.\nMarch 28, 2025 - We will start receiving the dataset requests from April 3rd, instead of March 28th, due to final adjustments in the distribution procedure.\nMarch 20, 2025 - This website is live."
   },
   {
     "objectID": "index.html#contacts",
@@ -54,13 +54,6 @@
     "title": "D1 @ UbiComp 2025",
     "section": "Contacts",
     "text": "Contacts\nFor any questions related to the workshop or technical support regarding the datasets, please do not hesitate to reach out to the organizers at datadistribution.knowdive [at] unitn.it."
-  },
-  {
-    "objectID": "program.html",
-    "href": "program.html",
-    "title": "Program",
-    "section": "",
-    "text": "TBD\n\n\n\n\nTime\nSession\n\n\n\n\n\n\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "cfp.html",
@@ -74,14 +67,14 @@
     "href": "cfp.html#important-dates",
     "title": "Call for Papers",
     "section": "Important dates",
-    "text": "Important dates\n\nFrom March 28, 2025 April 3, 20251: Submit your research proposal using the web form and request the datasets that you need to answer your research questions. Please specify that you are requesting the dataset to submit your work to the workshop. The full list of available datasets and documentation is accessible on the data catalog.\nJune 8, 2025: Abstract deadline. Link to submission platform TBA\nJune 15, 2025 23:59 AoE: Submission deadline\nJune 29, 2025: Author notification\nJuly 30, 2025: Deadline for the camera-ready version of workshop papers to be included in the ACM DL\nOctober 12 or 13, 2015: Full-day Workshop."
+    "text": "Important dates\n\nFrom March 28, 2025 April 3, 20251: Submit your research proposal using the web form and request the datasets that you need to answer your research questions. Please specify that you are requesting the dataset to submit your work to the workshop. The full list of available datasets and documentation is accessible on the data catalog.\nJune 8, 2025: Abstract deadline. Submission platform: https://new.precisionconference.com/submissions, select Society: SIGCHI  &gt;  Conference: Ubicomp/ISWC 2025  &gt;  Track: Ubicomp/ISWC 2025 DiversityOne-Challenge).\nJune 15, 2025 23:59 AoE: Submission deadline\nJune 29, 2025: Author notification\nJuly 30, 2025: Deadline for the camera-ready version of workshop papers to be included in the ACM DL\nOctober 12 or 13, 2015: Full-day Workshop."
   },
   {
     "objectID": "cfp.html#important-links",
     "href": "cfp.html#important-links",
     "title": "Call for Papers",
     "section": "Important links",
-    "text": "Important links\nDataset paper describes the methodology and the research protocol.\nData catalog lists all available data.\nDataset request form to send the research proposal and to request copy of the datasets.\nDataset webpage summarizes the key information about the data.\nConference webpage UbiComp / ISWC 2025"
+    "text": "Important links\nDataset paper describes the methodology and the research protocol.\nData catalog lists all available data.\nDataset request form to send the research proposal and to request copy of the datasets.\nDataset webpage summarizes the key information about the data.\nConference webpage UbiComp / ISWC 2025\nSubmission website, select Society: SIGCHI  &gt;  Conference: Ubicomp/ISWC 2025  &gt;  Track: Ubicomp/ISWC 2025 DiversityOne-Challenge."
   },
   {
     "objectID": "cfp.html#the-dataset",
@@ -145,5 +138,12 @@
     "title": "Call for Papers",
     "section": "Footnotes",
     "text": "Footnotes\n\n\nThe data requests will be received starting from April 3rd, instead of March 28th, due to final adjustments in the distribution procedure.↩︎"
+  },
+  {
+    "objectID": "pcmembers.html",
+    "href": "pcmembers.html",
+    "title": "Program Committee",
+    "section": "",
+    "text": "being updated\nWe are grateful to reviewers for their time and expertise in evaluating the workshop submissions.\n\nMichael Kizito, Makerere University, Uganda\nAmarsanaa Ganbold, National University of Mongolia, Mongolia\nRonald Chenu Abente Acosta, University of Trento, Italy\nWanyi Zhang, Chongqing University, China\nQiang Shen, China\nBiswanath Dutta, Indian Statistical Institute Bangalore, India\nJahna Otterbacher, Open University of Cyprus, Cyprus\n…\n\n\n\n\n Back to top"
   }
 ]
