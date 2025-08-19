@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.32">
+<meta name="generator" content="quarto-1.7.33">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -36,10 +36,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-ea385d0e468b0dd5ea5bf0780b1290d9.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-1c3ccb92a5858e74589ae78c7340beb0.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-d69b1367450d02ff1c0f9daa3a0aba00.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -68,6 +68,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 <meta property="og:title" content="DiversityOne @ UbiComp 2025">
@@ -153,11 +182,17 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p><em>additional details will be added soon</em></p>
-<ul>
-<li>Blue Mondays and Happy Meals: Investigating the impact of Contextual Factors on Mood States</li>
-<li>MakOne: Behavioural Data of University Students’ Smart Devices in Uganda</li>
-</ul>
+<ol type="1">
+<li><p><strong>Blue Mondays and Happy Meals: Investigating the impact of Contextual Factors on Mood States</strong></p>
+<p>Nouran Abdalazim, Giovanni De Felice, Leonardo Alchieri, Lidia Alecci, Silvia Santini<br>
+<em>Università della Svizzera italiana (USI), Lugano, Switzerland</em></p>
+<p><em>Abstract</em>: Mood plays a critical role in shaping cognition, memory, and well-being. While it is generally stable, it evolves gradually over time, “emotion inertia” phenomenon. Mood is also influenced by contextual factors, e.g, time, day, place, activity, and social context. In this study, we leverage the unique opportunity provided by the longitudinal and rich DiversityOne dataset, which includes self-reported mood and contextual information alongside smartphone sensor data collected over four weeks from 782 users across eight countries. We investigate temporal mood patterns and their associations with contextual information. Our experimental results provide quantitative evidence for the presence of the emotion inertia. Also, our findings confirm that the associations between mood and contextual factors, e.g., mood tends to be high around periods associated with meals (“Happy Meals”), and lower at the beginning of the week (“Blue Mondays”). Nevertheless, we observe cross-cultural variability in such associations. Finally, we show that integrating contextual features with mobility metrics derived from location sensor significantly enhances mood recognition performance w.r.t. using either feature set alone by up to six percentage points and achieving 74% balanced accuracy. These results highlight the promise of context-aware, passive sensing systems for end-to-end mood recognition with minimal reliance on self-reports.</p></li>
+<li><p><strong>MakOne: Behavioural Data of University Students’ Smart Devices in Uganda</strong></p>
+<p>Michael Kizito<span class="math inline">\(^1\)</span>, Ivan Kayongo<span class="math inline">\(^2\)</span>, Hawa Nyende<span class="math inline">\(^1\)</span>, Halimu Chongomweru<span class="math inline">\(^1\)</span>, Lillian Muyama<span class="math inline">\(^1\)</span>, Roy Alia Asiku<span class="math inline">\(^2\)</span>, Alice Mugisha<span class="math inline">\(^1\)</span></p>
+<p><span class="math inline">\(^1\)</span> <em>Makerere University, Kampala, Uganda</em><br>
+<span class="math inline">\(^2\)</span> <em>University of Trento, Trento, Italy</em></p>
+<p><em>Abstract</em>: Understanding student behaviour in higher education is essential for improving academic performance, supporting mental wellbeing, and informing institutional policies. However, most existing behavioural datasets originate from Western institutions and overlook the unique socioeconomic and infrastructural contexts of African institutions, limiting the global applicability of resulting insights. This paper introduces MakOne, a novel multimodal dataset collected over six weeks from 72 students at <em>Makerere University</em>, Kampala, using iLog, a mobile sensing application. The dataset integrates passive smartphone sensor data—including location, physical activity, and screen usage—with ecological momentary assessments (EMAs) that capture students’ moods and daily routines. Designed to reflect the lived experiences of students in an African setting, MakOne offers a foundation for research in behaviour modeling, inclusive context-aware system design, mental health analytics, and culturally grounded educational technologies. It contributes a critical African perspective to the growing body of data-driven studies on student behaviour.</p></li>
+</ol>
 
 
 

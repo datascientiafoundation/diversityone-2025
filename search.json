@@ -1,52 +1,10 @@
 [
   {
-    "objectID": "program.html",
-    "href": "program.html",
-    "title": "Program",
-    "section": "",
-    "text": "To be announced!\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "D1 @ UbiComp 2025",
-    "section": "",
-    "text": "The first edition of the open challenge aims to explore the all-new DiversityOne dataset, one of the larger and most geographically diverse datasets for everyday life behavior modeling.\nKey dataset statistics:\nThe study followed ethical approval procedures in each of the participating institutions and is compliant with the European General Data Protection Regulation (GDPR). This dataset is a rich, flexible and valuable research resource that can be used to answer research questions in multiple fields:\nThis challenge offers the opportunity to work on the dataset and gain helpful feedback on your research. A selection of the accepted papers will be invited to submit an extended version to IEEE Pervasive Computing. We welcome contributions from researchers from diverse backgrounds and geographical provenances. The workshop proposal is also available."
-  },
-  {
-    "objectID": "index.html#diversityone-open-challenge-at-ubicompiswc-2025",
-    "href": "index.html#diversityone-open-challenge-at-ubicompiswc-2025",
-    "title": "D1 @ UbiComp 2025",
-    "section": "DiversityOne Open Challenge at UbiComp/ISWC 2025",
-    "text": "DiversityOne Open Challenge at UbiComp/ISWC 2025\n\nExploring Diversity in People’s Everyday Life Behavior with Mobile Data"
-  },
-  {
-    "objectID": "index.html#news",
-    "href": "index.html#news",
-    "title": "D1 @ UbiComp 2025",
-    "section": "News",
-    "text": "News\n\nJuly 22, 2025 - The list of accepted papers is out.\nJuly 05, 2025 - Given the requests received, the submission deadline has been extended to July 8, 2025 (AoE).\nMay 29, 2025 - Extended submission deadline: the new deadline is on July 4, 2025 (AoE).\nMay 20, 2025 - The submission link is https://new.precisionconference.com/submissions (Society: SIGCHI  &gt;  Conference: Ubicomp/ISWC 2025  &gt;  Track: Ubicomp/ISWC 2025 DiversityOne-Challenge).\nApril 14, 2025 - We’ve just released on Github the code for feature engineering on DiversityOne dataset. This code is valuable resource for analyzing and working on the dataset.\nApril 3, 2025 - The link to submit the research proposal to request the datasets is available at https://ds.datascientia.eu/marketplace/welcome.\nMarch 28, 2025 - We will start receiving the dataset requests from April 3rd, instead of March 28th, due to final adjustments in the distribution procedure.\nMarch 20, 2025 - This website is live."
-  },
-  {
-    "objectID": "index.html#contacts",
-    "href": "index.html#contacts",
-    "title": "D1 @ UbiComp 2025",
-    "section": "Contacts",
-    "text": "Contacts\nFor any questions related to the workshop or technical support regarding the datasets, please do not hesitate to reach out to the organizers at datadistribution.knowdive [at] unitn.it."
-  },
-  {
     "objectID": "pcmembers.html",
     "href": "pcmembers.html",
     "title": "Program Committee",
     "section": "",
     "text": "We are grateful to reviewers for their time and expertise in evaluating the workshop submissions.\n\nMichael Kizito, Makerere University, Uganda\nAmarsanaa Ganbold, National University of Mongolia, Mongolia\nRonald Chenu Abente Acosta, University of Trento, Italy\nWanyi Zhang, Chongqing University, China\nQiang Shen, China\nBiswanath Dutta, Indian Statistical Institute Bangalore, India\nJahna Otterbacher, Open University of Cyprus, Cyprus\nLuca Cernuzzi, Universidad Católica Nuestra Señora de la Asunción, Paraguay\nShyam Diwakar, Amrita University, India\nSalvador Ruiz Correa, Instituto Potosino de Investigación Científica y Tecnológica A.C, Mexico\nMarcelo Dario Rodas Britez, FBK, Italy\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "papers.html",
-    "href": "papers.html",
-    "title": "Accepted papers",
-    "section": "",
-    "text": "additional details will be added soon\n\nBlue Mondays and Happy Meals: Investigating the impact of Contextual Factors on Mood States\nMakOne: Behavioural Data of University Students’ Smart Devices in Uganda\n\n\n\n\n Back to top"
   },
   {
     "objectID": "cfp.html",
@@ -152,5 +110,47 @@
     "title": "D1 @ UbiComp 2025",
     "section": "Technical Support",
     "text": "Technical Support\n\n\n\n\n\nAli Hamza  University of Trento\n\n\n\n\n\nMunkhdelger Bayanjargal  University of Trento"
+  },
+  {
+    "objectID": "papers.html",
+    "href": "papers.html",
+    "title": "Accepted papers",
+    "section": "",
+    "text": "Blue Mondays and Happy Meals: Investigating the impact of Contextual Factors on Mood States\nNouran Abdalazim, Giovanni De Felice, Leonardo Alchieri, Lidia Alecci, Silvia Santini\nUniversità della Svizzera italiana (USI), Lugano, Switzerland\nAbstract: Mood plays a critical role in shaping cognition, memory, and well-being. While it is generally stable, it evolves gradually over time, “emotion inertia” phenomenon. Mood is also influenced by contextual factors, e.g, time, day, place, activity, and social context. In this study, we leverage the unique opportunity provided by the longitudinal and rich DiversityOne dataset, which includes self-reported mood and contextual information alongside smartphone sensor data collected over four weeks from 782 users across eight countries. We investigate temporal mood patterns and their associations with contextual information. Our experimental results provide quantitative evidence for the presence of the emotion inertia. Also, our findings confirm that the associations between mood and contextual factors, e.g., mood tends to be high around periods associated with meals (“Happy Meals”), and lower at the beginning of the week (“Blue Mondays”). Nevertheless, we observe cross-cultural variability in such associations. Finally, we show that integrating contextual features with mobility metrics derived from location sensor significantly enhances mood recognition performance w.r.t. using either feature set alone by up to six percentage points and achieving 74% balanced accuracy. These results highlight the promise of context-aware, passive sensing systems for end-to-end mood recognition with minimal reliance on self-reports.\nMakOne: Behavioural Data of University Students’ Smart Devices in Uganda\nMichael Kizito\\(^1\\), Ivan Kayongo\\(^2\\), Hawa Nyende\\(^1\\), Halimu Chongomweru\\(^1\\), Lillian Muyama\\(^1\\), Roy Alia Asiku\\(^2\\), Alice Mugisha\\(^1\\)\n\\(^1\\) Makerere University, Kampala, Uganda\n\\(^2\\) University of Trento, Trento, Italy\nAbstract: Understanding student behaviour in higher education is essential for improving academic performance, supporting mental wellbeing, and informing institutional policies. However, most existing behavioural datasets originate from Western institutions and overlook the unique socioeconomic and infrastructural contexts of African institutions, limiting the global applicability of resulting insights. This paper introduces MakOne, a novel multimodal dataset collected over six weeks from 72 students at Makerere University, Kampala, using iLog, a mobile sensing application. The dataset integrates passive smartphone sensor data—including location, physical activity, and screen usage—with ecological momentary assessments (EMAs) that capture students’ moods and daily routines. Designed to reflect the lived experiences of students in an African setting, MakOne offers a foundation for research in behaviour modeling, inclusive context-aware system design, mental health analytics, and culturally grounded educational technologies. It contributes a critical African perspective to the growing body of data-driven studies on student behaviour.\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "D1 @ UbiComp 2025",
+    "section": "",
+    "text": "The first edition of the open challenge aims to explore the all-new DiversityOne dataset, one of the larger and most geographically diverse datasets for everyday life behavior modeling.\nKey dataset statistics:\nThe study followed ethical approval procedures in each of the participating institutions and is compliant with the European General Data Protection Regulation (GDPR). This dataset is a rich, flexible and valuable research resource that can be used to answer research questions in multiple fields:\nThis challenge offers the opportunity to work on the dataset and gain helpful feedback on your research. A selection of the accepted papers will be invited to submit an extended version to IEEE Pervasive Computing. We welcome contributions from researchers from diverse backgrounds and geographical provenances. The workshop proposal is also available."
+  },
+  {
+    "objectID": "index.html#diversityone-open-challenge-at-ubicompiswc-2025",
+    "href": "index.html#diversityone-open-challenge-at-ubicompiswc-2025",
+    "title": "D1 @ UbiComp 2025",
+    "section": "DiversityOne Open Challenge at UbiComp/ISWC 2025",
+    "text": "DiversityOne Open Challenge at UbiComp/ISWC 2025\n\nExploring Diversity in People’s Everyday Life Behavior with Mobile Data"
+  },
+  {
+    "objectID": "index.html#news",
+    "href": "index.html#news",
+    "title": "D1 @ UbiComp 2025",
+    "section": "News",
+    "text": "News\n\nJuly 22, 2025 - The list of accepted papers is out.\nJuly 05, 2025 - Given the requests received, the submission deadline has been extended to July 8, 2025 (AoE).\nMay 29, 2025 - Extended submission deadline: the new deadline is on July 4, 2025 (AoE).\nMay 20, 2025 - The submission link is https://new.precisionconference.com/submissions (Society: SIGCHI  &gt;  Conference: Ubicomp/ISWC 2025  &gt;  Track: Ubicomp/ISWC 2025 DiversityOne-Challenge).\nApril 14, 2025 - We’ve just released on Github the code for feature engineering on DiversityOne dataset. This code is valuable resource for analyzing and working on the dataset.\nApril 3, 2025 - The link to submit the research proposal to request the datasets is available at https://ds.datascientia.eu/marketplace/welcome.\nMarch 28, 2025 - We will start receiving the dataset requests from April 3rd, instead of March 28th, due to final adjustments in the distribution procedure.\nMarch 20, 2025 - This website is live."
+  },
+  {
+    "objectID": "index.html#contacts",
+    "href": "index.html#contacts",
+    "title": "D1 @ UbiComp 2025",
+    "section": "Contacts",
+    "text": "Contacts\nFor any questions related to the workshop or technical support regarding the datasets, please do not hesitate to reach out to the organizers at datadistribution.knowdive [at] unitn.it."
+  },
+  {
+    "objectID": "program.html",
+    "href": "program.html",
+    "title": "Tentative Program",
+    "section": "",
+    "text": "Date: October 13, Monday\nTime: from 1 pm to 4 pm\nLocation: room HH\n\n\n\nTime\nEvent\n\n\n\n\n13:00 - 13:10\nOpening and Welcome\n\n\n13:10 - 16:00\nSessions\n\n\n16:00\nClosing remarks\n\n\n\n\n\n\n Back to top"
   }
 ]
